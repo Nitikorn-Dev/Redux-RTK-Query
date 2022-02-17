@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { Provider } from 'react-redux';
 import store from './store';
+//https://github.com/dmalvia/Redux_RTK_Query_Tutorial/tree/master
 
 ReactDOM.render(
   <React.StrictMode>
